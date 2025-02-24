@@ -1,6 +1,6 @@
 
 /* Your CSS Code here. */
-.holder {
+.holder{
     display: flex;
     flex-wrap: wrap; /* Allows items to move to the next row when needed */
     justify-content: space-between; /* Ensures space between elements and edges */
